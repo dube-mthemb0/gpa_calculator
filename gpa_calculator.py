@@ -27,3 +27,6 @@ if num_courses > 0:
     print(f"Your GPA is {total_grade_points/ num_courses:.2f}")
 else:
     print("No valid grades were entered.")
+
+#This is the end
+print()
